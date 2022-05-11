@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-10T21:57:20 CDT" name="Default suite" finished-at="2022-05-10T21:57:20 CDT" duration-ms="702">
+    <groups>
+    </groups>
+    <test started-at="2022-05-10T21:57:20 CDT" name="Default test" finished-at="2022-05-10T21:57:20 CDT" duration-ms="702">
+      <class name="DataBaseBootCamp.DBC_Query6">
+        <test-method signature="dbConnections()[pri:0, instance:DataBaseBootCamp.DBC_Query6@1649b0e6]" started-at="2022-05-10T21:57:20 CDT" name="dbConnections" finished-at="2022-05-10T21:57:20 CDT" duration-ms="644" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dbConnections -->
+      </class> <!-- DataBaseBootCamp.DBC_Query6 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
